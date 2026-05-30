@@ -71,4 +71,4 @@ Everything needed to publish on Kindle Direct Publishing. Fill the KDP web form 
 ## Manuscript & cover files
 
 - Manuscript: `build/Sentience.epub` (compiled from `manuscript/`).
-- Cover: `publishing/cover/Sentience-cover-ebook.png` (1600×2560, see `publishing/cover/cover-brief.md`).
+- Cover (upload to KDP): `publishing/cover/Sentience-cover-ebook.jpg` (1600×2560, RGB, 300 dpi). TIFF and PNG also provided; high-res master is `Sentience-cover-master.{jpg,tiff,png}`. See `publishing/cover/cover-brief.md`.

@@ -9,12 +9,18 @@
 - Title in an extra-light, widely letter-spaced sans (DejaVu Sans ExtraLight) — modern, quiet, confident. Author name small at the foot.
 
 ## Specs (Amazon KDP)
-- **Ebook cover:** 1600 × 2560 px (1:1.6), RGB, PNG/JPG. Delivered: `Sentience-cover-ebook.png`.
-- **High-res master:** 2560 × 4096 px. Delivered: `Sentience-cover-master.png`.
+- **Ebook cover:** 1600 × 2560 px (1:1.6), RGB, 300 dpi. KDP accepts **JPEG or TIFF** (not PNG).
+  - Use **`Sentience-cover-ebook.jpg`** for KDP upload (preferred). TIFF and PNG also provided.
+- **High-res master:** 2560 × 4096 px — `Sentience-cover-master.{jpg,tiff,png}`.
+- All exports are flattened RGB (no alpha, no ICC profile, no CMYK) per KDP requirements.
 - Title legible as a thumbnail (the convergence motif reads even at 200px).
+
+## Files delivered (per size)
+`Sentience-cover-ebook.{jpg,tiff,png}` and `Sentience-cover-master.{jpg,tiff,png}`.
+**Upload to KDP:** `Sentience-cover-ebook.jpg`.
 
 ## Reproduce
 ```bash
 python3 publishing/cover/generate_cover.py
 ```
-Deterministic (seeded). Outputs both files into `publishing/cover/`.
+Deterministic (seeded). Writes PNG + JPEG + TIFF for both sizes into `publishing/cover/`.

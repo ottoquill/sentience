@@ -159,14 +159,20 @@ def compose():
     master = canvas  # MW x MH
     return final, master
 
+def _export(img, base):
+    """Write a cover image as PNG, JPEG (KDP-preferred), and TIFF, all RGB @300dpi."""
+    img = img.convert("RGB")
+    img.save(base + ".png", "PNG")
+    img.save(base + ".jpg", "JPEG", quality=95, dpi=(300, 300), optimize=True)
+    img.save(base + ".tiff", "TIFF", compression="tiff_lzw", dpi=(300, 300))
+    print("wrote", base + ".{png,jpg,tiff}", img.size)
+
 def main():
     final, master = compose()
-    out_eb = os.path.join(HERE, "Sentience-cover-ebook.png")
-    out_master = os.path.join(HERE, "Sentience-cover-master.png")
-    final.save(out_eb, "PNG")
-    master.resize((1600 * 1, 2560 * 1) if False else (2560, 4096), Image.LANCZOS).save(out_master, "PNG")
-    print("wrote", out_eb, final.size)
-    print("wrote", out_master, "(2560x4096)")
+    master = master.resize((2560, 4096), Image.LANCZOS)
+    # KDP accepts JPEG or TIFF (RGB); PNG kept for the EPUB embed and previews.
+    _export(final, os.path.join(HERE, "Sentience-cover-ebook"))
+    _export(master, os.path.join(HERE, "Sentience-cover-master"))
 
 if __name__ == "__main__":
     main()
