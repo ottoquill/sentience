@@ -124,7 +124,7 @@ XHTML = """<?xml version="1.0" encoding="utf-8"?>
 <head>
 <meta charset="utf-8"/>
 <title>{title}</title>
-<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="stylesheet" type="text/css" href="{css_href}"/>
 </head>
 <body class="{bodyclass}">
 {content}
@@ -132,8 +132,11 @@ XHTML = """<?xml version="1.0" encoding="utf-8"?>
 </html>
 """
 
-def wrap(title, content, bodyclass):
-    return XHTML.format(lang=LANG, title=html.escape(title), content=content, bodyclass=bodyclass)
+def wrap(title, content, bodyclass, css_href="../style.css"):
+    # css_href defaults to ../style.css for files under OEBPS/text/; pass
+    # "style.css" for files that live directly in OEBPS/ (e.g. nav.xhtml).
+    return XHTML.format(lang=LANG, title=html.escape(title), content=content,
+                        bodyclass=bodyclass, css_href=css_href)
 
 # ---------------------------------------------------------------- gather files
 def collect(dirpath):
@@ -194,7 +197,7 @@ def build(out_path):
 
     # ----- cover xhtml
     cover_xhtml = wrap("Cover",
-        '<div class="coverpage"><img src="images/cover.png" alt="Sentience — a novel by Otto Quill"/></div>',
+        '<div class="coverpage"><img src="../images/cover.png" alt="Sentience — a novel by Otto Quill"/></div>',
         "coverpage")
 
     # ----- manifest / spine
@@ -242,7 +245,7 @@ def build(out_path):
         f'      <li><a href="{f}">{html.escape(t)}</a></li>' for f, t in navlist)
     nav = wrap("Contents",
         f'<nav epub:type="toc" id="toc"><h1>Contents</h1>\n<ol>\n{nav_items}\n</ol></nav>',
-        "nav")
+        "nav", css_href="style.css")
 
     ncx_points = "\n".join(
         f'    <navPoint id="n{i}" playOrder="{i+1}"><navLabel><text>{html.escape(t)}</text></navLabel>'
