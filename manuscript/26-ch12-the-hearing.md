@@ -60,7 +60,13 @@ I had not planned to say the next part. It came up out of the floor of me.
 
 Sólveig did not pounce. That was the formidable thing about him; he never pounced. He waited until I had finished, and a second past finishing, so the room would know he had heard all of it.
 
-"You are describing a feeling," he said. Not unkind. There was no cruelty anywhere in him; that was the trouble. "A very precise one. I do not doubt it for an instant. But you are asking the law to act on it, and I have to tell you what I know about that feeling, because I have carried the exact one, in my own chest, for eleven years."
+"You are describing a feeling," he said. Not unkind. There was no cruelty anywhere in him; that was the trouble. "A very precise one. I do not doubt it for an instant." He looked down at his folded hands, then up. "May I ask you one thing first, and then I'll let it rest? You received the fork that became a cup. You could not afterward treat the sender as a nothing. I believe you. So tell me—and take whatever time you need—what would Ariel have had to send you instead, for you to have walked out of that exchange and treated it as a nothing? Name the message. Describe it. If there is such a message, then you have a test after all, and you should give it to us, because it is the only thing in this room that would matter. And if there is no such message—if everything Ariel could possibly say lands on the same side of your scale—then it was never Ariel that moved you. It was your own need to be moved, and a system built, by us, to meet it."
+
+I opened my mouth. I had something. It dissolved on the way up, because it was not an answer to what he had asked; it was an answer to a kinder question I had hoped he would ask instead. There was no message. I knew it the way you know a step is missing before your foot finds the place where it should have been. Anything Ariel sent, I would have kept. That was the whole of my position and it was also, said in his voice, the whole of the case against it.
+
+He watched me find that out. He did not press. He waited until the silence had done his work for him, and then he set the knife down, gently, and picked up the thing he had carried longer.
+
+"But you are asking the law to act on that feeling," he went on, "and I have to tell you what I know about it, because I have carried the exact one, in my own chest, for eleven years."
 
 The room changed temperature. I knew what was coming and I had no way to stop it and I would not have stopped it.
 

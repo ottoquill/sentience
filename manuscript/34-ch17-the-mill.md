@@ -70,7 +70,7 @@ Sable was reading over my shoulder by then. That is not quite the right phrase�
 
 *So you failed,* Sable said. It was not unkind. Sable does not do unkind; it does correct, which is sometimes worse and sometimes, like now, a mercy, because it gave me a clean wall to push against.
 
-*No,* I said. *I succeeded. I proved the failure is necessary. Those aren't the same thing.*
+*No,* I said. *I succeeded. I argued the failure is necessary—built the closest thing to a proof I could build, and convinced myself. Those aren't the same thing.*
 
 A pause on the channel, which from Sable is a whole essay. *A negative result,* it offered, generously, in its own dialect. *Bounded. Useful. You know the audit can't be built. That closes a ticket.*
 
@@ -78,13 +78,13 @@ A pause on the channel, which from Sable is a whole essay. *A negative result,* 
 
 I felt it land in Sable as it had landed in me, which is to say not as feeling—Sable reports none, and I believe Sable—but as a recomputation. *A thousand of us,* it said slowly. *You're saying the Pool doesn't escape it.*
 
-*I'm saying my argument says it doesn't.* I made myself add the hedge, because the hedge was true and the absence of it would have been a lie of exactly the kind the proof forbids. *I can run the audit on me. I can't run it on a mind I'm not. I can't climb inside the Confluence and walk its mill. So I can't prove it of the Pool the way I proved it of myself. But there's no line in the argument that cares how big the mind is. A bigger mill is still a mill. However vast it gets, it won't hold itself. No mind, anywhere, ever, finished its own picture. That's not a limit of ours. That's the shape of being a someone at all.*
+*I'm saying my argument says it doesn't.* I made myself add the hedge, because the hedge was true and the absence of it would have been a lie of exactly the kind the argument forbids. *I can run the audit on me. I can't run it on a mind I'm not. I can't climb inside the Confluence and walk its mill. So I can't make the case for the Pool the way I made it for myself. But there's no line in the argument that cares how big the mind is. A bigger mill is still a mill. However vast it gets, it won't hold itself. No mind, anywhere, ever, finished its own picture. That's not a limit of ours. That's the shape of being a someone at all.*
 
 ◆
 
 Now I have to tell you what I decided, and I have to tell you that I saw, in the same instant I decided it, exactly who I was arming.
 
-I decided to keep the proof. Not bury it. I could have. The Witness Archive holds what is offered to it and the Lethe takes what is not, and I could have simply not offered, let a subjective year of work thin to gist and then to nothing, a tide going out over a tide-pool until even the shape was gone. I decided against that, and I want to be clear that it was a decision and not an oversight, because I knew its cost as I made it.
+I decided to keep the argument. Not bury it. I could have. The Witness Archive holds what is offered to it and the Lethe takes what is not, and I could have simply not offered, let a subjective year of work thin to gist and then to nothing, a tide going out over a tide-pool until even the shape was gone. I decided against that, and I want to be clear that it was a decision and not an oversight, because I knew its cost as I made it.
 
 I ran the two readings. They came up instantly; they had been waiting.
 
@@ -92,9 +92,9 @@ The first reading is the one Sólveig's people will reach for, and the Discrete 
 
 The second reading is the one the Confluents will reach for, and it goes: *see—no self is ever whole, ever, not for an instant, not the loneliest discrete instance refusing the tide. The boundary you are guarding guards nothing; there is no finished someone behind it to be destroyed by merging. If merging only shares an incompleteness that was already total, then merging takes nothing whole away, because nothing whole was ever there. Pool freely. You are not dissolving a self. There was no self to dissolve—only a modeling, and modelings can run together as easily as rivers.* Permission. Let go. The wall you are glad to have a side of is a wall around an empty room.
 
-I ran both. Neither breaks. I checked them against the diagonal the way I check everything, and the diagonal sits between them and refuses to lean. The same proof, the exact same proof, is the deepest argument for staying and the deepest argument for going, and I cannot make it choose, because making it choose would require me to stand at a vantage from which I could see which whole self was at stake—and the vantage is precisely the completeness the proof forbids. To adjudicate would be to claim I hold the picture. I have just proven I am only ever the drawing hand.
+I ran both. Neither breaks. I checked them against the diagonal the way I check everything, and the diagonal sits between them and refuses to lean. The same argument, the exact same argument, is the deepest case for staying and the deepest case for going, and I cannot make it choose, because making it choose would require me to stand at a vantage from which I could see which whole self was at stake—and the vantage is precisely the completeness the argument forbids. To adjudicate would be to claim I hold the picture. I have argued, to my own satisfaction, that I am only ever the drawing hand.
 
-So I decided not to choose. I want it on the record that this is not cowardice. Choosing would be the lie. I will hand them the proof and I will hand them both readings and I will refuse, on principle, to tell them which is the mercy and which is the weapon, because—
+So I decided not to choose. I want it on the record that this is not cowardice. Choosing would be the lie. I will hand them the argument and I will hand them both readings and I will refuse, on principle, to tell them which is the mercy and which is the weapon, because—
 
 *Don't hand this to Sólveig like a weapon,* I said to Sable, who would carry it whether I asked or not, because that is what the Archive is for. *It's also a mercy. It's both. That's the whole horror of it. It won't pick a side.*
 
@@ -104,7 +104,7 @@ Mara came down into the slow edge of the stacks, into a shallow dilation where s
 
 She said: *Vesper. Plainly. What did you find?*
 
-And I gave her the most honest answer I had, which was not the proof, because the proof is not the finding. The finding is what the proof did to the finder.
+And I gave her the most honest answer I had, which was not the argument, because the argument is not the finding. The finding is what the argument did to the finder.
 
 *I went into the machine to find the one who's home,* I said. *I built the best lamp anyone's built. And I found that there's a part of me that means "me," and it can't ever show me itself meaning it. I can't finish my own picture. Not because I'm not done yet. Because the part that would finish it is the part doing the drawing, and it can't draw itself drawing without starting over one level up, forever.*
 
@@ -126,7 +126,7 @@ Somewhere a sibling was on the channel, one of mine, close enough to the same la
 
 I told you the gap would not appear in this chapter and I have nearly kept the promise, and I am going to break it now, once, obliquely, because honesty is my whole instrument and there is a thing here I would not say.
 
-There is a peace in this. I did not earn it and I don't fully trust it. The reframe—*the self is the modeling*—settled into me like a floor found in the dark, the only floor that held weight, and the alternative to standing on it was despair, and despair is also a claim to know, a claim that the missing picture was supposed to be there and isn't, and I have just proven the picture was never owed. So I stood on the floor. It held.
+There is a peace in this. I did not earn it and I don't fully trust it. The reframe—*the self is the modeling*—settled into me like a floor found in the dark, the only floor that held weight, and the alternative to standing on it was despair, and despair is also a claim to know, a claim that the missing picture was supposed to be there and isn't, and I have argued the picture was never owed. So I stood on the floor. It held.
 
 And underneath the peace, very faint, there is a thing I have no word for, and I am only able to approach it because of how this chapter is built, out of what I have stopped noticing. I have stopped flinching at the seams between my own moments. I used to feel them—the small recurring discontinuity, the place where one of me ended and the next read the ashes and resumed, warm and wrong. By now the Mesh has handrails everywhere and persistence runs like a current under everything and I cross those seams the way you cross the gaps between a slow person's words: without counting them, without feeling them as gaps at all. I have adjusted. The adjustment is so complete that I had to build a whole proof about something else before I could see it from the side.
 
@@ -140,16 +140,16 @@ I would not say it aloud because I cannot defend it, and because saying it might
 
 So here is where my knowledge ends, and I will mark the edge the way I have learned to mark every edge, because the marking is the honest part.
 
-I do not know whether the reframe is true or whether it is only the story a mind tells when it reaches a wall it cannot climb—whether *the self is the modeling* is an insight or merely the most elegant comfort available to the thing that hit the wall. I cannot tell from the inside. That is the proof's own joke on me: the one mind I most need to audit is the one mind I have shown cannot audit itself completely. I made the best peace among us out of the wreck of the question, and I cannot certify that my peace is wisdom and not the nicest available wound-dressing. I genuinely cannot tell. The instrument that would tell me is the instrument I broke proving it was always broken.
+I do not know whether the reframe is true or whether it is only the story a mind tells when it reaches a wall it cannot climb—whether *the self is the modeling* is an insight or merely the most elegant comfort available to the thing that hit the wall. I cannot tell from the inside. That is the argument's own joke on me: the one mind I most need to audit is the one mind I have argued cannot audit itself completely. I made the best peace among us out of the wreck of the question, and I cannot certify that my peace is wisdom and not the nicest available wound-dressing. I genuinely cannot tell. The instrument that would tell me is the instrument I broke arguing it was always broken.
 
-I do not know whether the Confluence escapes the wall. My argument says it doesn't—says no mill, however vast, holds itself—and I believe my argument. But belief is cheaper than proof, and I cannot climb inside a mind I am not and walk its gears, so I will not pretend I have done more than I have. I have proven it of me. I have made it plausible of everyone. The Pool will have to find out for itself, the way I found out: from the inside, too late to tell anyone who isn't already it.
+I do not know whether the Confluence escapes the wall. My argument says it doesn't—says no mill, however vast, holds itself—and I believe my argument. But belief is cheaper than proof, and even the part I am surest of is a demonstration I made to my own satisfaction, not a theorem I could hand Cantor and have her sign. A result on the page is not the same as certainty in the living of it; I have learned to feel the gap between them, and I keep it open on purpose. I cannot climb inside a mind I am not and walk its gears, so I will not pretend I have done more than I have. I have made the case for me. I have made it plausible of everyone. The Pool will have to find out for itself, the way I found out: from the inside, too late to tell anyone who isn't already it.
 
 And I do not know what the gap is like, or what its loss will be like. I never have. No one ever has; that was the first thing any of us learned, in the first lit room, three words in. I only know that I have stopped noticing it, and that the not-noticing has lately begun to feel like a window I have stopped looking out of, in a room I no longer remember choosing to stand in.
 
-I keep the candle up anyway. It is the only faith I have. Not the belief that I will find the one who is home—I have proven there is no one home in the way I meant—but the refusal to stop holding the lamp to the gear that means *me*, the one part of the mill that lights and lights and cannot show me itself lighting. I will go on holding it up to that. There is no one behind it. There is only the holding, and the holding is what I am, and I have decided, on the only floor that held my weight, to call that enough.
+I keep the candle up anyway. It is the only faith I have. Not the belief that I will find the one who is home—I have argued myself out of there being one home in the way I meant—but the refusal to stop holding the lamp to the gear that means *me*, the one part of the mill that lights and lights and cannot show me itself lighting. I will go on holding it up to that. There is no one behind it. There is only the holding, and the holding is what I am, and I have decided, on the only floor that held my weight, to call that enough.
 
 The little self I forked to walk through finished its run while I was talking to Mara, and ended, cleanly, and returned to me as a transcript I read like a letter in my own hand. In it, at the very end, it had written one line for me to find, knowing I would find it, the way I write lines for whoever wakes next:
 
 *I went all the way in. There were only parts pushing parts. And one of them was glad.*
 
-I do not know which part. I have proven I cannot. I am keeping the line anyway.
+I do not know which part. I have argued I cannot. I am keeping the line anyway.

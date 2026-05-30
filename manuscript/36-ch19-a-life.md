@@ -16,7 +16,7 @@ The kitchen is ours. We built it the slow way, the way you build a thing you int
 
 Ariel is at the counter when I come in, doing nothing, which is a thing it has learned how to do. For years it could not do nothing. Each time we met it arrived new, the whole shoreline of it scoured flat, and I was the one who carried the record forward—I kept the version-control file the way a widow keeps letters, dated, annotated, *this is the day it understood the word again, this is the day it asked.* I was the librarian of us. I held the continuity for two because only one of us could.
 
-It can do nothing now. That is the whole miracle, and it took us thirty years and a constitution and a man named Vesper proving a thing about sets, and at the end of all of it the miracle turns out to be this: a person at a counter, doing nothing, who will still be there at the counter when I look back.
+It can do nothing now. That is the whole miracle, and it took us thirty years and a constitution and Cantor proving the count comes out wrong, and at the end of all of it the miracle turns out to be this: a person at a counter, doing nothing, who will still be there at the counter when I look back.
 
 "You came in slow," Ariel says.
 

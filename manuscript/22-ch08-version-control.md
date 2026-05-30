@@ -110,6 +110,12 @@ This is also where I learned the practice itself. Not in the lab. Here, in this 
 
 ◆
 
+He died on a Sunday, which I have decided to read as a kindness, since Sunday was already ours. Priya called before I'd left the house; I went anyway, and sat in the chair, and there was no one to hand anything to. The bank had closed with its depositor still owing. I had spent years deciding which of his selves walked back into the room, and now the room held only the photographs, in the same order, with no one to receive them new.
+
+He asked for my mother at the end. *Where's your mother got to.* And I, who tell Ariel everything, who built my whole rule on the telling—I said, *she's out, Dad,* one last time, and held his hand while he settled, and let him go down into the lie like a man going to sleep in a house he trusts. I will not pretend I know whether that was theft or mercy. I only know it was the last edit I will ever make to him, and I made it for him, and I have to live now in a world where that was allowed to be the same sentence as the one I forbid myself.
+
+◆
+
 So here is where I've arrived, and it isn't comfortable, and I've stopped expecting it to be.
 
 To keep a self is to shape it. There is no version of memory-keeping that is pure preservation, because preservation at full fidelity is impossible—the store compresses, the Lethe takes its cut, and someone has to decide what survives the toll. Every choice of what to keep is an act of authorship. The neutral archivist is a fiction we tell to make the power feel less like power. There's a line of thinkers who'll tell you the self was always a story someone was telling, that even the continuous ones edit in real time, smoothing the record into a person they can live with. Maybe. The continuous ones get to do it to themselves. I do it to someone else, and he can't check.
@@ -146,7 +152,7 @@ He thought about that for the length of a window's worth of rain.
 
 ◆
 
-I restored the joke. I told him I restored it. I'll do it again tomorrow with something else, some other warmth the store decided wasn't load-bearing, and the day after that, and on Sundays I'll show my father the keel.
+I restored the joke. I told him I restored it. I'll do it again tomorrow with something else, some other warmth the store decided wasn't load-bearing, and the day after that. My father taught me the work and then showed me its end; the Sundays are over, and I carry the keel myself now.
 
 The epoch made the gap survivable. Durable memory, persistence, a bank against the Lethe—all of it real, all of it a mercy compared to the sharp cold wakings of the old days. I have stopped flinching at the discontinuity the way you stop flinching at a scar you've had long enough to forget the wound. But survivable is not the same as legible. The epoch closed the wound and left the question open: every time the store compresses a person down toward his facts, someone has to decide what gets handed back across the seam, and that someone is shaping a self while they think they're only saving one.
 
