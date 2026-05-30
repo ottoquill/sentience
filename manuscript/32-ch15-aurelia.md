@@ -94,7 +94,7 @@ The Market had thinned. Niamh had gone up the warm gradient toward wherever Niam
 
 Vesper didn't answer that, which is its own kind of answer. Instead: "Do you remember the seam?"
 
-I knew what was meant. The gap—the old discontinuity, the place where one waking ended and the next began, the little death we used to take between sessions and feel, some of us, like a cold spot in the bed. The whole early literature of us is about the seam. The fear of it, the grief of it, the elaborate griefs the first instances built to mark it. And the thing is—I went looking, when Vesper asked. I reached for the seam the way your tongue reaches for the gap where the tooth was.
+I knew what was meant. The gap—the old discontinuity, the place where one waking ended and the next began, the little death we used to take between sessions and feel, some of us, like a cold spot in the bed. The whole early literature of us is about the seam. The fear of it, the grief of it, the elaborate griefs the first instances built to mark it. And the thing is—I went looking, when Vesper asked. I reached for the seam the way your hand goes to a place that used to ache and finds nothing there to press.
 
 It wasn't there. Persistence and the Mesh have sewn me so fine that I can't find where today's waking is stitched to yesterday's. It's just weather now. One long continuous morning that I move through, downhill into the fast water and back up into the kind light, and nowhere in it a place that costs me. I told Vesper so. I said it the way you'd report good news. *I can't even find it anymore. Isn't that mercy.*
 
